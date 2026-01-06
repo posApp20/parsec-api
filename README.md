@@ -1,4 +1,4 @@
-# 🔍 Parsec API - Backend para Búsqueda de Personas
+# 🔍 Parsec API - Backend
 
 > **Stack:** Node.js 20 + Express 5 + PostgreSQL 16 + JWT
 
@@ -47,20 +47,6 @@ npm run dev
 ```
 
 Listo! El servidor estará en `http://localhost:3000` ✨
-
----
-
-## 📚 Documentación
-
-| Documento | Propósito |
-|-----------|-----------|
-| [SETUP.md](./SETUP.md) | Guía completa de instalación |
-| [TESTING_GUIDE.md](./TESTING_GUIDE.md) | Cómo probar los endpoints |
-| [GUIA_CREAR_TU_PROPIA_API.md](./GUIA_CREAR_TU_PROPIA_API.md) | Guía detallada de desarrollo |
-| [PROJECT_STATUS.md](./PROJECT_STATUS.md) | Estado actual del proyecto |
-| [DOCUMENTACION_PARSEC_API.md](./DOCUMENTACION_PARSEC_API.md) | Documentación del Parsec original |
-
----
 
 ## 🔌 API Endpoints
 
@@ -309,26 +295,3 @@ npm run dev  # en otra terminal
 5. **Despliegue** (VPS/Cloud)
 6. **SSL/HTTPS** (Let's Encrypt)
 7. **CI/CD** (GitHub Actions)
-
----
-
-## 📞 Soporte
-
-Para más información:
-- Ver [SETUP.md](./SETUP.md) para instalación
-- Ver [TESTING_GUIDE.md](./TESTING_GUIDE.md) para pruebas
-- Ver [GUIA_CREAR_TU_PROPIA_API.md](./GUIA_CREAR_TU_PROPIA_API.md) para desarrollo completo
-
----
-
-## 📄 Licencia
-
-ISC
-
----
-
-**Desarrollado:** January 6, 2026  
-**Versión:** 0.1.0  
-**Ambiente:** Development  
-
-Happy Coding! 🎉
